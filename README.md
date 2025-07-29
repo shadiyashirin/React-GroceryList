@@ -67,10 +67,3 @@ Building this application was an incredible learning experience! Here are some k
 * **Basic Hooks:** Getting familiar with `useState` and (potentially) `useEffect`.
 
 
-
-Feel free to reach out if you have any questions or just want to connect!
-
-* GitHub: [Your GitHub Profile Link](https://github.com/YOUR_GITHUB_USERNAME)
-* (Optional) LinkedIn: [Your LinkedIn Profile Link]
-
----
