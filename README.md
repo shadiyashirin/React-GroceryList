@@ -66,11 +66,6 @@ Building this application was an incredible learning experience! Here are some k
 * **Lists and Keys:** Efficiently rendering lists of items.
 * **Basic Hooks:** Getting familiar with `useState` and (potentially) `useEffect`.
 
----
-
-This project was primarily a learning exercise for me.
-
----
 
 
 Feel free to reach out if you have any questions or just want to connect!
